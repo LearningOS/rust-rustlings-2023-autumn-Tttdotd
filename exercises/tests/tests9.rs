@@ -34,10 +34,10 @@
 //     fn my_demo_function_alias(a: u32) -> u32;
 // }
 
-mod Foo {
-    // No `extern` equals `extern "Rust"`.
+// mod Foo {
+//     // No `extern` equals `extern "Rust"`.
 
-}
+// }
 
 #[cfg(test)]
 mod tests {
